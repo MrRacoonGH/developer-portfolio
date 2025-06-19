@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Connect Four Game",
+    "image": "assets/image/connect-four-game.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "links": {
+      "code": "https://github.com/MrRacoonGH/TP_connect-four-game",
+      "live": "https://mrracoongh.github.io/TP_connect-four-game/"
+    }
+  },
+  {
+    "title": "PayAPI",
+    "image": "assets/image/PayAPI.png",
+    "technologies": ["HTML", "CSS"],
+    "links": {
+      "code": "https://github.com/MrRacoonGH/TP_PayAPI-Kanban",
+      "live": "https://mrracoongh.github.io/TP_PayAPI-Kanban/"
+    }
+  }
+]

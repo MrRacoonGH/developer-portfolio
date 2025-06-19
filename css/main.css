@@ -50,6 +50,11 @@ header h2 {
     margin-top: 40px;
 }
 
+.presentation {
+        margin-bottom: 24px;
+
+}
+
 .presentation span {
     text-decoration: underline var(--color-primary);
 }
@@ -59,7 +64,6 @@ header h2 {
 }
 
 .contact {
-    margin-top: 24px;
     text-transform: uppercase;
     text-decoration: underline var(--color-primary);
     letter-spacing: 2px;
@@ -79,5 +83,33 @@ header h2 {
     color: var(--color-border);
 }
 
+.contact-project {
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.title {
+    margin-top: 20px;
+}
 
+.language {
+    margin-top: 7px;
+    display: flex;
+    color: var(--color-border);
+    width: 30%;
+    justify-content: space-between;
+}
+
+.view-project {
+    margin-top: 20px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.view-project li {
+    font-size: 24px  ;
+    text-decoration: underline var(--color-primary);
+    cursor: pointer;
+}
