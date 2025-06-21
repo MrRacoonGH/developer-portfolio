@@ -62,6 +62,10 @@ header h2 {
     margin-bottom: 24px;
 }
 
+.presentation h2 {
+    margin-bottom: 24px;
+}
+
 .dev-skills {
     padding-top: 40px;
     border-top: 3px solid var(--color-surface);
@@ -196,4 +200,28 @@ textarea {
     .link {
         width: 30%;
     }
+
+    .presentation {
+        width: 60%;
+
+    }
+
+    .presentation h2 {
+        font-size: 60px;
+        margin-bottom: 60px;
+    }
+
+
+
+    footer {
+        padding-left: 160px;
+        padding-right: 160px;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .contact-title {
+        font-size: 72px;
+    }
+
 }
